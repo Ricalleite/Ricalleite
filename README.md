@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![robozinho gif](https://github.com/Ricalleite/Ricalleite/blob/main/giphy.gif)
+<p align="center">
+  <img src="https://github.com/Ricalleite/Ricalleite/blob/main/giphy.gif" width="300" height="300" />
+</p>
 
 <!--
 **Ricalleite/Ricalleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
