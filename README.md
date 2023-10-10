@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Ricardo+Leite;I'm+51+years+old;I'm+from+Brazil,+MG;I'm+graduated+Electrical+Engineer;and+recently+Dev+Web+Full+Stack;Be+Welcome+to+my+GitHub!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Ricardo+Leite.;I'm+51+years+old.;I'm+from+Brazil,+MG;I+graduated+as+an+electrical+engineer;and+recently+Dev+Web+Full+Stack.;Be+Welcome+to+my+GitHub+profile!!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/Ricalleite/Ricalleite/blob/main/giphy.gif" width="150" height="150" />
@@ -8,17 +8,17 @@
 <br>
 <br>
 
-Olá!! Me chamo **Ricardo Leite**, sou natural de Belo Horizonte, MG-Brasil e acabei de me formar em **Desenvolvimento Web Full Stack** 🚀. 
+## Um pouco mais sobre mim... 🙋‍♂️​
 
 - 👨‍💼 ➡️ 👨‍💻 Estou em processo de transição de carreira. Da área de suprimentos/autônomo para a área de TI/DEV. 
 - 👨🏽‍💻📚💻 Sigo estudando e revendo conceitos de React como parte final/complementar da formação citada acima e P.O.O e Django em Python.
 - No desenvolvimento **back-end** utilizo Node.js e express na criação de API's REST, integrando banco de dados SQL e NoSQL.
 - 🧠 Sou um homem curioso por natureza, que gosta de aprender coisas novas e busco sempre progredir nas boas práticas da atuação profissional.
-- 🧰 👨‍🎓 Sou formado em Engenharia Elétrica, mas construi minha experiência profissional e desenvolvi minhas soft-skills atuando na área de Suprimentos como Analista de Materiais, cuidnado dos estoque de eletro-eletrônicos estratégicos (MRO) de uma multinacional do segmento metalúrgico-automotivo.
-- :speech_balloon: Pergunte-me sobre qualquer coisa e vamos trocar ideias! Gosto muito de ler e de conversar sobre tudo mas, pricnipalmente sobre História antiga, ficção científica, terror e assuntos relacionados à cinema!
+- 🧰 👨‍🎓 Sou formado em Engenharia Elétrica, mas construi minha experiência profissional e desenvolvi minhas soft-skills atuando na área de Suprimentos como Analista de Materiais, cuidando dos estoques de materiais eletro-eletrônicos estratégicos (MRO) de uma multinacional do segmento metalúrgico-automotivo.
+- :speech_balloon: Pergunte-me sobre qualquer coisa e vamos trocar ideias! Gosto muito de ler e de conversar sobre tudo mas, principalmente sobre História antiga, ficção científica, terror, gastronomia e assuntos relacionados à 7a Arte!
 - 📺🎦 Por falar nisso, sou cinéfilo de carteirinha.   
-- 📫 Caso queira entrar em contato, meu email é **ricalleite@gmail.com**.
-
+- 📫 Caso queira entrar em contato comigo, basta clicar no meu e-mail ou perfil do Linkedin mais abaixo. 😉
+ 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ricalleite&bg_color=0d1117&color=20B2AA&line=008000&point=FF8C00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
@@ -34,7 +34,7 @@ Olá!! Me chamo **Ricardo Leite**, sou natural de Belo Horizonte, MG-Brasil e ac
 </div>
 <br>
 
-## ⚡ Stacks and tools 🪛🔧​​​ -
+## ⚡ Stacks and tools 🪛🔧​​​
 
 ![Html5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
